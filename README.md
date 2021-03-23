@@ -18,22 +18,22 @@
  
 2. 종류
 
-  1. key-value store
+ 1. key-value store
   
      -가장 기본적인 NoSQL
      -Redis, DynamoDB
-     
-  3. Column family store
+
+ 3. Column family store
 
      -row기반의 RDBMS와 달리 column기반으로 데이터를 저장
      -Casandra, HBase
      
-  5. Document store
+ 5. Document store
 
      -json, xml형식의 문서와 같은 반정형 데이터 저장을 위한 모델
      -mongoDB, CouchDB
   
-  7. Graph store
+ 7. Graph store
   
      -그래프로 표현하는 DB
      -Neo4J
