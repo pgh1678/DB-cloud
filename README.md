@@ -6,7 +6,7 @@
 
 # NOSQL ?????
  
- . Not Only SQL
+1. Not Only SQL
  
  RDBSM와는 뭔가가 다름.........=> 데이터를 저장하는 형태가
  
@@ -16,7 +16,19 @@
 
     => 고정된 스키마가 없고, 수평적 확장이 쉬움. 고가용성
  
-  . 종류
+2. 종류
+  1. key-value store
+     -가장 기본적인 NoSQL
+     -Redis, DynamoDB
+  3. Column family store
+     -row기반의 RDBMS와 달리 column기반으로 데이터를 저장
+     -Casandra, HBase
+  5. Document store
+     -json, xml형식의 문서와 같은 반정형 데이터 저장을 위한 모델
+     -mongoDB, CouchDB
+  7. Graph store
+     -그래프로 표현하는 DB
+     -Neo4J
  
 
 # SQL VS NOSQL
