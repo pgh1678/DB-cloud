@@ -24,9 +24,9 @@
 
  i. key-value store
   
-     -가장 기본적인 NoSQL
+     - 가장 기본적인 NoSQL
      
-     -Redis, DynamoDB(https://pjh3749.tistory.com/282)
+     - Redis,  [DynamoDb](https://pjh3749.tistory.com/282)
 
  ii. Column family store
 
