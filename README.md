@@ -26,7 +26,7 @@
   
      -가장 기본적인 NoSQL
      
-     -Redis, DynamoDB( https://pjh3749.tistory.com/282 )
+     -Redis, [DynamoDB](https://pjh3749.tistory.com/282 )
 
  ii. Column family store
 
