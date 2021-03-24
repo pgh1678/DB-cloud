@@ -29,9 +29,8 @@
 
  ii. Column family store
 
-     -row기반의 RDBMS와 달리 column기반으로 데이터를 저장
-     
-     -Casandra, HBase
+   - row기반의 RDBMS와 달리 column기반으로 데이터를 저장   
+   - Casandra, HBase
      
  iii. Document store
 
