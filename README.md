@@ -67,6 +67,8 @@
    – PostgreSQL은 RDS로 이전 시 기존 어플리케이션 코드를 많이 변경하지 않아도 되기 때기 때문에 지리정보 분석, 머신러닝 등의 시스템 개발자에게 인기가 높음.
 
 
+# AWS기준 가격
+![image](https://user-images.githubusercontent.com/75401920/112778017-8c5b3a00-907e-11eb-8899-ee67c73c9222.png)
 
 # NOSQL ?????
  
