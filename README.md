@@ -8,7 +8,7 @@
 
 
 
-1.Amazon Aurora:
+1. Amazon Aurora:
 
    – Aurora는 MySQL RDBMS로 클라우드 기반의 RDBMS
    
